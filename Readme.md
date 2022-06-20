@@ -94,3 +94,7 @@ More precisely:
 :bulb: The default value is low (1e-3) to avoid the creation of new clusters in the final partition.
 
 * Parameter argument ```-k SizeMergeableMetaNode``` is the maximum number of nodes that a meta-node can contain to be mergeable to another meta-node.
+
+## User-Case
+
+Want to see how to apply this, concretely ? Have a look at the folders *AnalysisOf**.
