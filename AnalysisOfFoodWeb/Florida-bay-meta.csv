@@ -1,0 +1,129 @@
+node_id,name,group,benson_clustering
+0,2um Spherical Phytoplankt,,
+1,Synedococcus,,
+2,Oscillatoria,,
+3,Small Diatoms (<20um),,
+4,Big Diatoms (>20um),,
+5,Dinoflagellates,,
+6,Other Phytoplankton,,
+7,Benthic Phytoplankton,Demersal Producer,2
+8,Thalassia,Seagrass Producer,2
+9,Halodule,Seagrass Producer,2
+10,Syringodium,Seagrass Producer,2
+11,Roots,,
+12,Drift Algae,Algae Producer,2
+13,Epiphytes,Algae Producer,2
+14,Free Bacteria,Microbial Microfauna,3
+15,Water Flagellates,Microbial Microfauna,3
+16,Water Cilitaes,Microbial Microfauna,3
+17,Acartia Tonsa,Zooplankton Microfauna,3
+18,Oithona nana,Zooplankton Microfauna,3
+19,Paracalanus,Zooplankton Microfauna,3
+20,Other Copepoda,Zooplankton Microfauna,3
+21,Meroplankton,Zooplankton Microfauna,3
+22,Other Zooplankton,Zooplankton Microfauna,3
+23,Benthic Flagellates,Sediment Organism Microfauna,2
+24,Benthic Ciliates,Sediment Organism Microfauna,2
+25,Meiofauna,Sediment Organism Microfauna,2
+26,Sponges,Macroinvertebrates,3
+27,Coral,,
+28,Other Cnidaridae,Macroinvertebrates,2
+29,Echinoderma,Macroinvertebrates,2
+30,Bivalves,Macroinvertebrates,2
+31,Detritivorous Gastropods,Macroinvertebrates,2
+32,Epiphytic Gastropods,,
+33,Predatory Gastropods,Macroinvertebrates,2
+34,Detritivorous Polychaetes,Macroinvertebrates,2
+35,Predatory Polychaetes,Macroinvertebrates,2
+36,Suspension Feeding Polych,Macroinvertebrates,2
+37,Macrobenthos,Macroinvertebrates,2
+38,Benthic Crustaceans,Macroinvertebrates,2
+39,Detritivorous Amphipods,Macroinvertebrates,2
+40,Herbivorous Amphipods,Macroinvertebrates,2
+41,Isopods,Macroinvertebrates,2
+42,Herbivorous Shrimp,Macroinvertebrates,1
+43,Predatory Shrimp,Macroinvertebrates,2
+44,Pink Shrimp,Macroinvertebrates,2
+45,Thor Floridanus,,
+46,Lobster,,
+47,Detritivorous Crabs,Macroinvertebrates,1
+48,Omnivorous Crabs,Macroinvertebrates,2
+49,Predatory Crabs,Macroinvertebrates,1
+50,Callinectus sapidus,Macroinvertebrates,1
+51,Stone Crab,,
+52,Sharks,,
+53,Rays,,
+54,Tarpon,,
+55,Bonefish,,
+56,Sardines,Pelagic Fishes,0
+57,Anchovy,Pelagic Fishes,0
+58,Bay Anchovy,Pelagic Fishes,0
+59,Lizardfish,Benthic Fishes,1
+60,Catfish,Benthic Fishes,2
+61,Eels,Demersal Fishes,1
+62,Toadfish,Benthic Fishes,2
+63,Brotalus,Demersal Fishes,2
+64,Halfbeaks,Pelagic Fishes,0
+65,Needlefish,Pelagic Fishes,0
+66,Other Killifish,,
+67,Goldspotted killifish,Demersal Fishes,0
+68,Rainwater killifish,Demersal Fishes,0
+69,Snook,,
+70,Sailfin Molly,,
+71,Silverside,Pelagic Fishes,0
+72,Other Horsefish,,
+73,Gulf Pipefish,,
+74,Dwarf Seahorse,,
+75,Grouper,,
+76,Jacks,,
+77,Pompano,,
+78,Other Snapper,,
+79,Gray Snapper,,
+80,Mojarra,,
+81,Grunt,,
+82,Porgy,,
+83,Pinfish,,
+84,Scianids,,
+85,Spotted Seatrout,,
+86,Red Drum,,
+87,Spadefish,,
+88,Parrotfish,,
+89,Mackerel,,
+90,Mullet,Pelagic Fishes,2
+91,Barracuda,,
+92,Blennies,Benthic Fishes,2
+93,Code Goby,Benthic Fishes,1
+94,Clown Goby,Benthic Fishes,1
+95,Flatfish,Benthic Fishes,2
+96,Filefishes,,
+97,Puffer,,
+98,Other Pelagic Fishes,Pelagic Fishes,0
+99,Other Demersal Fishes,Demersal Fishes,2
+100,Loon,,
+101,Greeb,,
+102,Pelican,,
+103,Comorant,,
+104,Big Herons & Egrets,,
+105,Small Herons & Egrets,,
+106,Ibis,,
+107,Roseate Spoonbill,,
+108,Herbivorous Ducks,,
+109,Omnivorous Ducks,,
+110,Predatory Ducks,,
+111,Raptors,,
+112,Gruiformes,,
+113,Small Shorebirds,,
+114,Gulls & Terns,,
+115,Kingfisher,,
+116,Crocodiles,,
+117,Loggerhead Turtle,,
+118,Green Turtle,,
+119,Hawksbill Turtle,,
+120,Dolphin,,
+121,Manatee,,
+122,Water POC,Detritus,3
+123,Benthic POC,Detritus,2
+124,DOC,,
+125,Input,Detritus,3
+126,Output,,
+127,Respiration,,
