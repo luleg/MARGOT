@@ -1,6 +1,6 @@
 # Partitioning Directed Networks Based on their Motif Adjacency Matrices
 
-[![DOI](https://github.com/luleg/luleg.github.io/blob/master/AuxiliaryDoc/doiMargot.png)](https://doi.org/10.15129/5904d034-7db0-4e82-a17a-537a6a9328fa)
+[![DOI]<img src="https://github.com/luleg/luleg.github.io/blob/master/AuxiliaryDoc/doiMargot.png" width="30%">](https://doi.org/10.15129/5904d034-7db0-4e82-a17a-537a6a9328fa)
 
 This is a C++ software for partitioning directed networks based on their Motif Adjacency Matrices (MAM). Main steps of the software are illustrated below.
 
