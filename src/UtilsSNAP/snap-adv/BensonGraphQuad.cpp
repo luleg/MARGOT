@@ -93,7 +93,7 @@ const void BensonGraphQuad::UpdateTwoEdges(TIntV& TwU, const int& u_id, const in
 /*                       Q4 quadrangle MAM Weighting                          */
 
 void BensonGraphQuad::Q4ProcOneNode(const int& vi, const int& lab_vi){
-  // Algorithm from Niba and Nishizeki for listing every quadrangles.
+  // Algorithm from Chiba and Nishizeki for listing every quadrangles.
   // Adapted to 4-node quadrangles of type Q4 (with 4 (undirected) edges)
   TVec< TIntV > Tw = TVec<TIntV>(graph->GetMxNId() + 1); // 2-hop neighbours of VI: listing their paths to VI
   TIntV w_match; // To store those with more than 2 paths, that  are elligible nodes
