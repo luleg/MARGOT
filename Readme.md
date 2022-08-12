@@ -78,6 +78,14 @@ More precisely:
 :warning: For the output arguments, if the file already exists, its content is destroyed.
 
 * Parameter argument ```-m MotifIdentifier``` indicates the motif to use to build the MAM. See the doc *GraphletIdentifiersWithOrbits.pdf* for the list of all admissible motifs, along with their identifier.
+:bulb: You don't have an idea of your graphlet identifier ? Just write it in an edgelist format and call *graphlet_id.py*:
+
+```bash
+echo -e "0 1\n1 2\n2 3\n3 0" > graphlet.txt # 4-node loop graphlet
+pyhon3 graphlet_id.py graphlet.txt
+```
+:warning: This requires `python3` and the library `NetworkX` to be installed.
+
 * Parameter argument ```-orb anchors``` indicates the orbits to use as anchors to build the MAM. The doc *GraphletIdentifiersWithOrbits.pdf* lists the orbits for each admissible motifs.
 * Parameter argument ```-nth NumberOfThreads``` is the number of threads to use for building the MAM.
 
