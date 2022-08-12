@@ -78,11 +78,12 @@ More precisely:
 :warning: For the output arguments, if the file already exists, its content is destroyed.
 
 * Parameter argument ```-m MotifIdentifier``` indicates the motif to use to build the MAM. See the doc *GraphletIdentifiersWithOrbits.pdf* for the list of all admissible motifs, along with their identifier.
+
 :bulb: You don't have an idea of your graphlet identifier ? Just write it in an edgelist format and call *graphlet_id.py*:
 
 ```bash
-echo -e "0 1\n1 2\n2 3\n3 0" > graphlet.txt # 4-node loop graphlet
-pyhon3 graphlet_id.py graphlet.txt
+echo -e "0 1\n1 2\n2 3\n3 0" > graphlet.txt   # 4-node loop graphlet
+pyhon3 graphlet_id.py graphlet.txt            # Should return "Graphlet Identifier is Q4740"
 ```
 :warning: This requires `python3` and the library `NetworkX` to be installed.
 
